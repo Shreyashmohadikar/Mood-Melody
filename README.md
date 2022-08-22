@@ -3,8 +3,10 @@
 ### Music Genre Recommendation based on Facial Expressions.
 ### Detects live facial emotion, provides the choice for language, and recommends music with playlist options.
 
-#### Following are the steps to run the program:
-- Download and extract the repository from github to your system
+___
+
+#### Following are the steps to run the project:
+- Download and extract the project repository from github to your system
 
 - Create a virtual environment 
 
@@ -29,6 +31,12 @@ Now again open terminal in the main folder
 - Open cmd in the folder and run app.py
 
 ``` python app.py ```
+
+___
+
+Link for the project demo
+
+___
 
 #### Screenshots:
 
