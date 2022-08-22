@@ -10,7 +10,7 @@ ___
 
 - Create a virtual environment 
 
-Open terminal and enter following code snippets
+Open terminal in the folder and enter following code snippets
 
 ``` pip install virtualenv ```
 
