@@ -3,7 +3,7 @@
 ### Music Genre Recommendation based on Facial Expressions.
 ### Detects live facial emotion, provides the choice for language, and recommends music with playlist options.
 
-___
+___ 
 
 #### Following are the steps to run the project:
 - Download and extract the project repository from github to your system
