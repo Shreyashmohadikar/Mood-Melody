@@ -18,9 +18,8 @@ Open terminal in the folder and enter following code snippets
 
 ``` virtualenv venv ```
 
-``` cd venv\Scripts\ ```
+``` venv\Scripts\activate ```
 
-``` activate ```
 
 - Install required packages
 
